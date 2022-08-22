@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...having a clear understanding of web development, both front and back. To be able to create projets and decide on the role I like the most.
 - 🌱 I’m currently learning ... Js, html, css and knowing Py. I hope, in a short time to be presenting and showing my projects. 
 - 💞️ Now, I'm looking to learn and I hope to collaborate and participate in small projects where I can gain experience.
-- 📫 How to reach me ... w.barrios731@hotmail.com
+- 📫 How to reach me ...
 
 <!---
 WillamBarr/WillamBarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
